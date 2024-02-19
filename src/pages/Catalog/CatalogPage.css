@@ -1,0 +1,38 @@
+.catalog-page{
+    margin-left: 100px;
+    margin-right: 235px;
+}
+
+.page-left{
+    display: flex;
+    margin-right: 101px;
+}
+
+.page-main{
+    margin: 10px 0 0 101px;
+}
+
+.main-filter{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: -29px;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.60);
+    margin-bottom: 86px;
+    font-family: Marcellus, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.main-arrow{
+    margin-top: 72px;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    color: rgba(0, 0, 0, 0.60);
+    font-family: 'Marcellus', sans-serif;
+    font-size: 16px;
+    word-wrap: break-word;
+    font-weight: 500;
+}

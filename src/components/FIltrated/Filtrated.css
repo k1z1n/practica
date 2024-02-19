@@ -1,0 +1,69 @@
+.filtrated{
+    display: flex;
+    flex-direction: column;
+    padding: 20px 24px;
+    border: 1px rgba(0, 0, 0, 0.10) solid;
+    border-radius: 20px;
+    max-width: 295px;
+    height: 100%;
+}
+
+
+.price-pos{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    font-size: 20px;
+    font-family: 'Marcellus', sans-serif;
+}
+
+.filtrated-filtr{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    font-size: 20px;
+    font-family: 'Marcellus', sans-serif;
+}
+
+hr{
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.filtrated-pol{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.pol-pos{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.60);
+    font-size: 16px;
+    font-family: 'Marcellus', sans-serif;
+}
+
+.size-down{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 8px;
+    margin-top: 20px;
+}
+
+.size-up{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    font-size: 20px;
+    font-family: 'Marcellus', sans-serif;
+}
+
+.filtrated-button{
+    margin-top: 24px;
+}

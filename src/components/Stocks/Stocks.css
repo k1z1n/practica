@@ -1,0 +1,32 @@
+.stocks{
+    max-width: 1420px;
+    margin: 98px auto 93px;
+}
+
+.stocks-up{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #111111;
+    font-size: 34px;
+    font-weight: 400;
+    letter-spacing: 1.36px;
+    text-transform: uppercase;
+    font-family: 'Marcellus', serif;
+    margin-bottom: 55px;
+}
+
+.stocks-up p{
+    color: #111111;
+    font-size: 34px;
+    font-weight: 400;
+    letter-spacing: 1.36px;
+    text-transform: uppercase;
+    font-family: 'Marcellus', serif;
+}
+
+.stocks-button{
+    display: flex;
+    justify-content: center;
+    margin-top: 55px;
+}

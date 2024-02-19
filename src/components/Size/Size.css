@@ -1,0 +1,9 @@
+.size {
+    padding: 12px 22px;
+    background: #F0F0F0;
+    border-radius: 10px;
+    font-weight: 400;
+    font-family: 'Marcellus', sans-serif;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.60);
+}

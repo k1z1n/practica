@@ -1,0 +1,35 @@
+.link {
+    color: #111111;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: 'Jost', serif;
+    position: relative;
+}
+
+
+
+.gray:before {
+    content: ' ';
+    width: 100%;
+    height: 2px;
+    background: #303030;
+    bottom: 0;
+    position: absolute;
+}
+
+.animation:before {
+    content: ' ';
+    width: 100%;
+    height: 2px;
+    background: black;
+    bottom: 0;
+    position: absolute;
+    transform: scaleX(0); /* Изначально устанавливаем масштаб по оси X в 0 */
+    transform-origin: left; /* Определение точки начала масштабирования */
+    transition: transform 0.4s ease; /* Добавлено свойство transition для плавности анимации */
+}
+
+.animation:hover:before {
+    transform: scaleX(1); /* При наведении масштабируем обратно до единицы */
+}

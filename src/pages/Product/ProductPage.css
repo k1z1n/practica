@@ -1,0 +1,117 @@
+.h1 {
+    font-family: 'Jost', sans-serif;
+    font-size: 62px;
+    font-weight: 400;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.product-page {
+    max-width: 1398px;
+    margin: 0 auto 213px;
+}
+
+.product-images {
+    display: flex;
+}
+
+.left-images {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+.left-images img {
+    height: 162.94px;
+    width: 120px;
+    margin-right: 82px;
+}
+
+.kutak {
+    width: 380px;
+    height: 516px;
+}
+
+.detailed-info{
+    display: flex;
+    gap: 226px;
+}
+
+.product-info {
+    width: 590px;
+}
+
+.product-title {
+    color: black;
+    font-size: 40px;
+    font-weight: 400;
+    font-family: 'Marcellus', sans-serif;
+    margin-top: 13px;
+    margin-bottom: 20px;
+}
+
+.price {
+    color: #8C907E;
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 0.96px;
+    margin-bottom: 20px;
+}
+
+.description {
+    max-width: 360px;
+    color: rgba(0, 0, 0, 0.60);
+    font-family: 'Marcellus', sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+
+hr {
+    border-color: rgba(0, 0, 0, 0.10);
+    margin-bottom: 20px;
+}
+
+.color {
+    margin-bottom: 20px;
+}
+
+.color p{
+    margin-bottom: 20px;
+}
+
+.color img:not(:last-child){
+    margin-right: 16px;
+}
+
+.gray-color {
+    color: rgba(0, 0, 0, 0.60);
+    font-size: 16px;
+    font-family: 'Marcellus', sans-serif;
+    font-weight: 400;
+}
+
+.size-block {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.size-block p{
+    margin-bottom: 20px;
+}
+
+.size-selector{
+    display: flex;
+    gap: 12px;
+    margin-bottom: 20px;
+}
+
+.buttons{
+    gap: 24px;
+    display: flex;
+}

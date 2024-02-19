@@ -1,0 +1,6 @@
+.popular{
+    display: flex;
+    max-width: 1420px;
+    gap: 20px;
+    margin: -196px auto 138px;
+}

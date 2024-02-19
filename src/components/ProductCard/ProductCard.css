@@ -1,0 +1,41 @@
+.product-card:not(:last-child) {
+    margin-right: 20px;
+}
+
+.product-card {
+    position: relative;
+}
+
+.product-card p {
+    color: #111111;
+    font-family: 'Marcellus', sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.product-add button{
+    margin-right: 16px;
+}
+
+.product-add {
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 101px;
+    opacity: 0; /* Изначально кнопка скрыта */
+    transition: opacity 0.5s ease; /* Плавное появление */
+}
+
+.product-card:hover .product-add {
+    opacity: 1; /* При наведении кнопка становится видимой */
+}
+
+.product-card p:nth-child(3) {
+    font-family: 'Jost', serif;
+    font-size: 18px;
+    color: #8C907E;
+    margin-top: 2px;
+}
