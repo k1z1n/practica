@@ -1,8 +1,8 @@
 import React from 'react';
 import './CartModal.css'
-import img from '/src/assets/cart/img.svg'
-import promo from '/src/assets/cart/promo.svg'
-import arrow from '/src/assets/cart/arrow.svg'
+import img from '/cart/img.svg'
+import promo from '/cart/promo.svg'
+import arrow from '/cart/arrow.svg'
 import Button from "../Button/Button.jsx";
 
 

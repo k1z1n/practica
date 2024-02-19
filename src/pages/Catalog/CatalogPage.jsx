@@ -5,7 +5,7 @@ import './CatalogPage.css';
 import ProductsList from "../../components/ProductsList/ProductsList.jsx";
 import Header from "../../components/Header/Header.jsx";
 import Footer from "../../components/Footer/Footer.jsx";
-import arrow from '/src/assets/products/arrow.svg'
+import arrow from '/products/arrow.svg'
 import Filtrated from "../../components/FIltrated/Filtrated.jsx";
 
 export default function CatalogPage() {

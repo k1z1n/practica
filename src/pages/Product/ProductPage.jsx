@@ -5,9 +5,9 @@ import Header from "../../components/Header/Header.jsx";
 import Footer from "../../components/Footer/Footer.jsx";
 import './ProductPage.css'
 import CustomUrl from "../../components/CustomUrl/CustomUrl.jsx";
-import elipse1 from '/src/assets/products/ellipse1.svg'
-import elipse2 from '/src/assets/products/ellipse2.svg'
-import elipse3 from '/src/assets/products/ellipse3.svg'
+import elipse1 from '/products/ellipse1.svg'
+import elipse2 from '/products/ellipse2.svg'
+import elipse3 from '/products/ellipse3.svg'
 import Size from "../../components/Size/Size.jsx";
 import Button from "../../components/Button/Button.jsx";
 

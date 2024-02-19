@@ -1,5 +1,5 @@
 import React from "react";
-import arrow from '/src/assets/products/arrow.svg'
+import arrow from '/products/arrow.svg'
 import './CustomUrl.css'
 
 export default function CustomUrl({ values }) {

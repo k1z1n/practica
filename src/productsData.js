@@ -1,31 +1,35 @@
+import product1 from '/products/product1.svg'
+import product2 from '/products/product2.svg'
+import product3 from '/products/product3.svg'
+import product4 from '/products/product4.svg'
 const ProductData = [
     {
         id: 1,
         title: 'БЕЛЫЙ СВИТЕР',
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor  ',
         price: 5400,
-        img: '/src/assets/products/product1.svg'
+        img: product1
     },
     {
         id: 2,
         title: 'ПЛАТЬЕ',
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor  ',
         price: 9500,
-        img: '/src/assets/products/product2.svg'
+        img: product2
     },
     {
         id: 3,
         title: 'БЕЖЕВАЯ РУБАШКА',
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor  ',
         price: 5600,
-        img: '/src/assets/products/product3.svg'
+        img: product3
     },
     {
         id: 4,
         title: 'ХЛОПКОВАЯ РУБАШКА',
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor  ',
         price: 6500,
-        img: '/src/assets/products/product4.svg'
+        img: product4
     },
     // Остальные продукты с измененными данными
     {
@@ -33,14 +37,14 @@ const ProductData = [
         title: 'Новый заголовок 5',
         description: 'Новое описание 5',
         price: 7000,
-        img: '/src/assets/products/product1.svg'
+        img: product1
     },
     {
         id: 6,
         title: 'Новый заголовок 6',
         description: 'Новое описание 6',
         price: 8000,
-        img: '/src/assets/products/product2.svg'
+        img: product2
     },
     // {
     //     id: 7,

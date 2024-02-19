@@ -1,7 +1,7 @@
 .banner{
     display: flex;
     justify-content: center;
-    background: url("src/assets/banner/banner.svg");
+    background: url("/public/banner/banner.svg");
 }
 
 .banner-title{

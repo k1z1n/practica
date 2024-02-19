@@ -3,9 +3,9 @@ import { useState, useRef, useEffect } from 'react';
 import CustomLink from '../Link/CustomLink.jsx';
 import CartModal from "../CartModal/CartModal.jsx";
 
-import logo from '/src/assets/header/logo.svg';
-import cart from '/src/assets/header/cart.svg';
-import heart from '/src/assets/header/heart.svg';
+import logo from '/header/logo.svg';
+import cart from '/header/cart.svg';
+import heart from '/header/heart.svg';
 import data from '/src/productsData.js';
 import './Header.css';
 import {Link} from "react-router-dom";

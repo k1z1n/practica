@@ -69,15 +69,15 @@
 
 @font-face {
     font-family: 'Jost';
-    src: url('assets/fonts/Jost-Regular.ttf');
+    src: url('../public/fonts/Jost-Regular.ttf');
 }
 @font-face {
     font-family: 'Jost-light';
-    src: url('assets/fonts/Jost-Light.ttf');
+    src: url('../public/fonts/Jost-Light.ttf');
 }
 @font-face {
     font-family: 'Marcellus';
-    src: url('assets/fonts/Marcellus-Regular.ttf');
+    src: url('../public/fonts/Marcellus-Regular.ttf');
 }
 
 *{

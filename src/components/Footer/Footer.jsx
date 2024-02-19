@@ -1,7 +1,7 @@
 import React from 'react';
 import './Footer.css'
 import CustomLink from "../Link/CustomLink.jsx";
-import logo from '/src/assets/header/logo.svg'
+import logo from '/header/logo.svg'
 
 export default function Footer() {
     return (

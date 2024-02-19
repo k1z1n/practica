@@ -1,10 +1,10 @@
 import './Filtrated.css'
-import filter from '/src/assets/catalog/filter.svg'
-import arrowRight from '/src/assets/products/arrow.svg'
+import filter from '/catalog/filter.svg'
+import arrowRight from '/products/arrow.svg'
 import Size from "../Size/Size.jsx";
-import arrowUp from '/src/assets/catalog/arrow-up.svg'
+import arrowUp from '/catalog/arrow-up.svg'
 import Button from "../Button/Button.jsx"
-import range from '/src/assets/catalog/range.svg'
+import range from '/catalog/range.svg'
 
 export default function Filtrated() {
     return (

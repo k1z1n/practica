@@ -4,87 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a4ceb44-2a67-4be3-823f-4c7ea6c2dd38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc.cjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/banner/banner.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/cart/arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/cart/img.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/cart/promo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/catalog/arrow-up.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/catalog/button.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/catalog/filter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/catalog/range.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Jost-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Jost-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Marcellus-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/header/cart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/header/heart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/header/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/header/search.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/popular/popular1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/popular/popular2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/popular/popular3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/products/arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/products/ellipse1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/products/ellipse2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/products/ellipse3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/products/like.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/products/product1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/products/product2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/products/product3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/products/product4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/react.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Banner/Banner.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Banner/Banner.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CartModal/CartModal.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CartModal/CartModal.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomUrl/CustomUrl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomUrl/CustomUrl.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FIltrated/Filtrated.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FIltrated/Filtrated.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Filter/Filter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Filter/Filter.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Link/CustomLink.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Link/CustomLink.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Popular/Popular.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Popular/Popular.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PopularCard/PopularCard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PopularCard/PopularCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProductCard/ProductCard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProductCard/ProductCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProductsList/ProductsList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProductsList/ProductsList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Size/Size.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Size/Size.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Stocks/Stocks.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Stocks/Stocks.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Cart/CartPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Catalog/CatalogPage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Catalog/CatalogPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home/HomePage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home/HomePage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Product/ProductPage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Product/ProductPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/productsData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="8a4ceb44-2a67-4be3-823f-4c7ea6c2dd38" name="Changes" comment="fix new">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/banner/banner.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/banner/banner.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/cart/arrow.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/cart/arrow.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/cart/img.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/cart/img.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/cart/promo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/cart/promo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/catalog/arrow-up.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/catalog/arrow-up.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/catalog/button.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/catalog/button.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/catalog/filter.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/catalog/filter.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/catalog/range.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/catalog/range.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Jost-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/Jost-Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Jost-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/Jost-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Marcellus-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/Marcellus-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/header/cart.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/header/cart.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/header/heart.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/header/heart.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/header/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/header/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/header/search.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/header/search.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/popular/popular1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/popular/popular1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/popular/popular2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/popular/popular2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/popular/popular3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/popular/popular3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/products/arrow.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/products/arrow.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/products/ellipse1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/products/ellipse1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/products/ellipse2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/products/ellipse2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/products/ellipse3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/products/ellipse3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/products/like.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/products/like.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/products/product1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/products/product1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/products/product2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/products/product2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/products/product3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/products/product3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/products/product4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/products/product4.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Popular/Popular.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Popular/Popular.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/productsData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/productsData.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,6 +70,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\03k1z\Downloads\Telegram Desktop\study\study\public" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -127,11 +83,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708345499399</updated>
-      <workItem from="1708345500534" duration="2008000" />
+      <workItem from="1708345500534" duration="3033000" />
     </task>
+    <task id="LOCAL-00001" summary="work">
+      <option name="closed" value="true" />
+      <created>1708347756428</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708347756428</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix">
+      <option name="closed" value="true" />
+      <created>1708347929834</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708347929834</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix new">
+      <option name="closed" value="true" />
+      <created>1708347942742</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708347942742</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="work" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="fix new" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix new" />
   </component>
 </project>

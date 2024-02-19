@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './ProductCard.css'
 import Button from "../Button/Button.jsx";
-import like from '/src/assets/products/like.svg';
+import like from '/products/like.svg';
 
 const ProductCard = ({ product }) => {
     return (
